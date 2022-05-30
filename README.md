@@ -1,0 +1,2 @@
+# sgd
+Home of SHELL🐚GAMING🌀DOMINION
