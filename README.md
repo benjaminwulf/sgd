@@ -1,21 +1,48 @@
-# SGD[rpg]
-# Home of SHELL🐚GAMING🌀DOMINION
+# 🌀SGD[rpg]
+# Home of 🐚SHELLGAMING DOMINION
 
 # CONTENTS
 
-## Introduction
+### Introduction
+🐚SHELL GAMING DOMINION set is set a near alternate future. Countries have morphed into capitalist-driven trade blocs. Companies and powerful individuals armed by digital supremacy use shadow currencies tipping the scales of a newly carved civilization. Paper FIAT monetary systems no longer exist. The ASCII-BINARY-HEX pact ensures political sovereignties remain dissolved as IPv6 and future Internet protocols intact firewalls as actual geographical borders. The FORWARD-LEDGER accounts all digital dealing as external forces shift from Earthly toward Intergalactic. A planet on fast-track towards apocalypse, structures of governance shift rapidly, engineered to face pending ZERO-DAY, while science discovery is obsessed with an antidote that will forever change our understanding of human consciousness.
 
-## About the Author
+### About the Author
+Some write for fun, some to gain a paycheck, others write for survival. How hungry is your appetite to create? Become a serial diarist!
 
-## BASICS
-## Setup
-## Character Sheets
-## Moves
-## Stats
-## Gear
-## Damage
-## Upgrades
-## Timeline
+Since 2004, through my journal habit, I have accumulated 115+ journals ranging from Roaring Spring, Moleskin and Leuchtturm1917 in all sizes. Journaling is the base floor to the path from writer to author.
+
+
+### Basics
+Players will need access to both a periodic table and ascii table, as they serve as the main ingredients to alter the FORWARD-LEDGER and teleport or time jump. 
+
+### Setup
+
+### Character Sheets
+
+
+### Moves
+
+### Stats
+Under /character-schema players will find base-24 and base-32 character sets:
+*Base-24* (earth origin)
+- Human
+- Humanª (alien-hybrid)
+- Huɰan (divergent)
+- Huɰanª (divergent/alien-hybrid)
+
+*Base-32* (off earth origin)
+- Alieǹ
+- RET (Registered Extra-Terrestrial)
+- UET (Unregistered Extra-Terrestrial)
+- Al13ǹ
+- (divergent alien)
+### Gear
+
+### Damage
+
+### Upgrades
+
+### Timeline
 - Intergalactic history is defined by numbered systems. 
 1.	BIN
 2.	OCT
