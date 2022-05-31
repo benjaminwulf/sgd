@@ -75,7 +75,7 @@ Example: 119-Uue, Ununennium 315
 - Origin constitution charter plus amended charter (cha-cha) to all future discovery in (un)known universe.
 - Imperium Planet (IP) utilized 32-hour time based on its size, rotation, and orbit.
 
-# SHELL GAMING DOMINION MAKERS
+## SHELL GAMING DOMINION MAKERS
 - SGDM[random] <https://SGDM.ly>
 - SGDM[east] <http://SGDM.vu>
 - SGDM[west] <http://SGDM.ws>
