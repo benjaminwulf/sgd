@@ -1,0 +1,33 @@
+!# worldtimeapi
+========
+http://worldclockapi.com/api/json/est/now
+
+========Call to========
+http://worldtimeapi.org/api/timezone/Europe/London.json
+
+========Example========
+let result = {"week_number":29,"utc_offset":"+01:00","utc_datetime":"2019-07-15T11:44:07.720355+00:00","unixtime":1563191047,"timezone":"Europe/London","raw_offset":0,"dst_until":"2019-10-27T01:00:00+00:00","dst_offset":3600,"dst_from":"2019-03-31T01:00:00+00:00","dst":true,"day_of_year":196,"day_of_week":1,"datetime":"2019-07-15T12:44:07.720355+01:00","client_ip":"194.153.217.248","abbreviation":"BST"}
+
+// result["unixtime"] => 1563191047
+
+========Curl call========
+# curl "http://worldtimeapi.org/api/timezone/Europe/Berlin"
+
+========Example========
+{
+  "abbreviation": "CET",
+  "client_ip": "185.220.101.67",
+  "datetime": "2022-02-14T05:49:41.885317+01:00",
+  "day_of_week": 1,
+  "day_of_year": 45,
+  "dst": false,
+  "dst_from": null,
+  "dst_offset": 0,
+  "dst_until": null,
+  "raw_offset": 3600,
+  "timezone": "Europe/Berlin",
+  "unixtime": 1644814181,
+  "utc_datetime": "2022-02-14T04:49:41.885317+00:00",
+  "utc_offset": "+01:00",
+  "week_number": 7
+}

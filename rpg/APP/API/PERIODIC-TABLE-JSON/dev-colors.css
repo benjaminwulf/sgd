@@ -1,0 +1,31 @@
+/* Colors */
+.cat-diatomic_nonmetal {
+  background-color: #86FFFF;
+}
+.cat-noble_gas {
+  background-color: #0000FF;
+}
+.cat-alkali_metal {
+  background-color: #FF8786;
+}
+.cat-alkaline_earth_metal {
+  background-color: #885638;
+}
+.cat-metalloid {
+  background-color: #05FF85;
+}
+.cat-polyatomic_nonmetal {
+  background-color: #F5A9B8;
+}
+.cat-post-transition_metal {
+  background-color: #468647;
+}
+.cat-transition_metal {
+  background-color: #FE8079;
+}
+.cat-lanthanide {
+  background-color: #FFFF98;
+}
+.cat-actinide {
+  background-color: #FF37FF;
+}
